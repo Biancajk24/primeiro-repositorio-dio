@@ -1,0 +1,10 @@
+Link Git Download
+https://git-scm.com/downloads
+
+Link Markdown Guide
+https://www.markdownguide.org/getting-started/
+
+A criação de repositórios é através do Git Bash
+
+Link de comandos do Git Bash com orientações
+https://comandosgit.github.io/
